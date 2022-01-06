@@ -11,7 +11,7 @@ body{
     padding:5%;    
 }
 .mission-content img{
-   
+   padding-left: 5%;
 }
 .mission-border h1{
     border-left: 5px solid rgba(10, 95, 50, 0.753);
@@ -29,6 +29,10 @@ h2{
     font-size:40px;
     text-align: center;
 }
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+}
 h4{
     margin-top:40px;
     font-weight: 400;
@@ -43,7 +47,7 @@ h4{
     display:inline-block
 }
 .my-mission22{
-
+    margin-bottom: 150px;
 }
 .mission-vission-goals{
     display: flex;
@@ -67,13 +71,33 @@ h4{
 #content3{
     background-color: rgba(248, 161, 146, 0.452);
 }
-/*
-
-
-
-
-
-
-
-
-*/
+.documentation-area1{
+    display: flex;
+}
+.doc-image{
+    width: 40%;
+    padding-left:10%;
+}
+.doc-image img{
+    max-width: 80%;
+    
+}
+.doc-text{
+    width: 60%;
+    padding-right:10%;
+}
+.documentation-area2{
+    display: flex;
+}
+.doc-image2{
+    width: 40%;
+    padding-right:10%;
+}
+.doc-image2 img{
+    max-width: 80%;
+    
+}
+.doc-text2{
+    width: 60%;
+    padding-left:10%;
+}
