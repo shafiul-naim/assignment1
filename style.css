@@ -51,8 +51,7 @@ h4{
 }
 .mission-vission-goals{
     display: flex;
-   padding:10px 20px;
-   margin:5px 20px;
+    padding:10px 20px;  
 }
 .mission-content{
     width: 33%;
@@ -109,5 +108,5 @@ h4{
     color: white;
     background-color: black;
     padding:20px 40px;
-    
+
 }
