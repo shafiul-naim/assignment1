@@ -73,6 +73,8 @@ h4{
 }
 .documentation-area1{
     display: flex;
+    margin-bottom: 150px;
+    
 }
 .doc-image{
     width: 40%;
@@ -88,10 +90,11 @@ h4{
 }
 .documentation-area2{
     display: flex;
+    margin-bottom: 150px;
 }
 .doc-image2{
     width: 40%;
-    padding-right:10%;
+    padding-left:10%;
 }
 .doc-image2 img{
     max-width: 80%;
