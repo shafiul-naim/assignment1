@@ -52,21 +52,20 @@ h4{
 }
 .mission-content{
     width: 33%;
-    margin:20px
+    margin:20px;
+    border-radius: 20px;
 }
 .mission-content img{
     max-width: 100%;
-    max-height: 100%;
-    overflow: hidden;
 }
 #content1{
-    background-color: rgb(238, 176, 236);
+    background-color: rgba(238, 176, 236, 0.5);
 }
 #content2{
-    background-color: palegreen;
+    background-color: rgba(152, 251, 152, 0.507);
 }
 #content3{
-    background-color: rgb(248, 161, 146);
+    background-color: rgba(248, 161, 146, 0.452);
 }
 /*
 
